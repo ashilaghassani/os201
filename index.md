@@ -7,4 +7,4 @@ GitHub page ini dibuat untuk keperluan UAS perkuliahan Sistem Operasi.
 
 Berikut ini link-link seputar Sistem Operasi, silahkan klik:
 
-[URLs](url/)
+[URLs](URLs/)
