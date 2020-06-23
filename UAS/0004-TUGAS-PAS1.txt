@@ -1,4 +1,4 @@
-Script started on Mon 08 Jun 2020 11:21:20 PM WIB
+ Script started on Mon 08 Jun 2020 11:21:20 PM WIB
 ]0;ashila.ghassani@badak: ~/UASashila.ghassani@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 ashilaghassani
