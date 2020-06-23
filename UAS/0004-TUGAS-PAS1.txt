@@ -1,35 +1,35 @@
 Script started on Mon 08 Jun 2020 11:21:20 PM WIB
-ashila.ghassani@badak:~/UAS$ PS1="$ "
+]0;ashila.ghassani@badak: ~/UASashila.ghassani@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 ashilaghassani
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-232524-d5b6-UAS/>
+200608-232524-d5b6-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 200608-232550-9cab-UAS/> echo -e $CEKSAYA
-ashilaghassani ZCZCSCRIPTSTART 200604-212117 ashilaghassani
- ashilaghassani ashilaghassani 200604-212306-77e9-ashila.ghassani/ 200604-212306 SEQOK SUMOK 77e9e1be
- ashilaghassani ashilaghassani 200604-212323-77ab-ashila.ghassani/ 200604-212323 SEQOK SUMOK 77abda21
- ashilaghassani ashilaghassani 200604-212325-eb9b-ashila.ghassani/ 200604-212325 SEQOK SUMOK eb9be8ce
- ashilaghassani ashilaghassani 200604-212337-18cc-ashila.ghassani/ 200604-212337 SEQOK SUMOK 18cc4a5d
- ashilaghassani ZCZCSCRIPTSTOP 200604-212351 SEQOK
+ashilaghassani ZCZCSCRIPTSTART 200604-212117 ashilaghassani 
+ ashilaghassani ashilaghassani 200604-212306-77e9-ashila.ghassani/ 200604-212306 SEQOK SUMOK 77e9e1be 
+ ashilaghassani ashilaghassani 200604-212323-77ab-ashila.ghassani/ 200604-212323 SEQOK SUMOK 77abda21 
+ ashilaghassani ashilaghassani 200604-212325-eb9b-ashila.ghassani/ 200604-212325 SEQOK SUMOK eb9be8ce 
+ ashilaghassani ashilaghassani 200604-212337-18cc-ashila.ghassani/ 200604-212337 SEQOK SUMOK 18cc4a5d 
+ ashilaghassani ZCZCSCRIPTSTOP 200604-212351 SEQOK 
 
 200608-232603-fb78-UAS/> echo -e $CEKSEBELA1
-ashilaghassani ZCZCSCRIPTSTART 200529-222752 astridchrd
- ashilaghassani astridchrd 200529-222848-1cab-astrid.chaerida/ 200529-222848 SEQOK SUMOK 1cab892e
- ashilaghassani astridchrd 200529-222856-9aef-astrid.chaerida/ 200529-222856 SEQOK SUMOK 9aef8ff9
- ashilaghassani astridchrd 200529-222920-818e-astrid.chaerida/ 200529-222920 SEQOK SUMOK 818e9df2
- ashilaghassani astridchrd 200529-222934-3f10-astrid.chaerida/ 200529-222934 SEQOK SUMOK 3f10ea40
- ashilaghassani ZCZCSCRIPTSTOP 200529-222946 SEQOK
+ashilaghassani ZCZCSCRIPTSTART 200529-222752 astridchrd 
+ ashilaghassani astridchrd 200529-222848-1cab-astrid.chaerida/ 200529-222848 SEQOK SUMOK 1cab892e 
+ ashilaghassani astridchrd 200529-222856-9aef-astrid.chaerida/ 200529-222856 SEQOK SUMOK 9aef8ff9 
+ ashilaghassani astridchrd 200529-222920-818e-astrid.chaerida/ 200529-222920 SEQOK SUMOK 818e9df2 
+ ashilaghassani astridchrd 200529-222934-3f10-astrid.chaerida/ 200529-222934 SEQOK SUMOK 3f10ea40 
+ ashilaghassani ZCZCSCRIPTSTOP 200529-222946 SEQOK 
 
-200608-233306-0d32-UAS/> echo -e $CEKSEBELA2
-ashilaghassani ZCZCSCRIPTSTART 200608-185635 audillapf
- ashilaghassani audillapf 200608-185657-88a2-UAS/ 200608-185657 SEQOK SUMOK 88a2d726
- ashilaghassani audillapf 200608-185703-88bb-UAS/ 200608-185703 SEQOK SUMOK 88bb8f80
- ashilaghassani audillapf 200608-185709-bd1b-UAS/ 200608-185709 SEQOK SUMOK bd1b08fb
- ashilaghassani audillapf 200608-185717-0642-UAS/ 200608-185717 SEQOK SUMOK 06420e4e
- ashilaghassani ZCZCSCRIPTSTOP 200608-185721 SEQOK
+200608-233306-0d32-UAS/> echo -e $CEKSEBELA1[K2
+ashilaghassani ZCZCSCRIPTSTART 200608-185635 audillapf 
+ ashilaghassani audillapf 200608-185657-88a2-UAS/ 200608-185657 SEQOK SUMOK 88a2d726 
+ ashilaghassani audillapf 200608-185703-88bb-UAS/ 200608-185703 SEQOK SUMOK 88bb8f80 
+ ashilaghassani audillapf 200608-185709-bd1b-UAS/ 200608-185709 SEQOK SUMOK bd1b08fb 
+ ashilaghassani audillapf 200608-185717-0642-UAS/ 200608-185717 SEQOK SUMOK 06420e4e 
+ ashilaghassani ZCZCSCRIPTSTOP 200608-185721 SEQOK 
 
 200608-233344-842d-UAS/> exit
 exit
