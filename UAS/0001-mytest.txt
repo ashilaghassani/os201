@@ -1,11 +1,11 @@
 Script started on Thu 04 Jun 2020 09:21:17 PM WIB
-ashila.ghassani@badak:~$ PS1="$ "
+]0;ashila.ghassani@badak: ~ashila.ghassani@badak:~$ PS1="$ "
 $ echo $GitHubUser
 ashilaghassani
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200604-212306-77e9-ashila.ghassani/>
+$ TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Keval $PSTAMP
+200604-212306-77e9-ashila.ghassani/> 
 $ PS1="\$(eval \$PSTAMP)"
 200604-212323-77ab-ashila.ghassani/> date
 Thu Jun  4 21:23:25 WIB 2020
